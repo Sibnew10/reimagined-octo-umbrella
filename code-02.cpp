@@ -3,9 +3,8 @@
 int main(){
     int n = 12;
     int k = 5;
-    char text = "Hello Git";
 
-    printf("Hello Git");
+    printf("Hello Git in C++");
 
     return 0;
 }
